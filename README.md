@@ -14,4 +14,4 @@ as shown in the graph below and it is higher than any reached score as you will 
 
 And in this image you will find the best reached AUROC scores 
 
-![global results](./global_resultsjpeg "global results")
+![global results](./global_results.jpeg "global results")

@@ -7,11 +7,11 @@ We used "Adam" optimizer and "BCEWithLogitsLoss" criterion
 
 ### Results
 We used AUROC to compare our results with others 
-##### Our AUROC = 0.90 
+#### Our AUROC = 0.90 
 as shown in the graph below and it is higher than any reached score as you will see in the image below
 
 ![Our AUROC](./auroc_graph.png "AUROC graph")
 
-And in this image you will find the best reached AUROC scores 
+And in this image you will find the best reached AUROC scores from others
 
 ![global results](./global_results.jpeg "global results")

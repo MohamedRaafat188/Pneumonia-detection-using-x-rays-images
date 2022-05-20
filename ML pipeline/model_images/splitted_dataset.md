@@ -1,0 +1,1 @@
+This folder contains the train, valid and test datasets after creating them in the EDA step

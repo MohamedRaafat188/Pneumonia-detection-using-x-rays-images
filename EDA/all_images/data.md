@@ -1,0 +1,1 @@
+You can get the data from this [link](https://nihcc.app.box.com/v/ChestXray-NIHCC)
